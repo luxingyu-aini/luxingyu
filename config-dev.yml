@@ -2,7 +2,7 @@ config:
  info: nishiwangbadan
  spring:
   datasource:
-    driver-class-name: com.mysql.cj.jdbc.Driver
+    driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://192.168.0.253:3306/lxy?useUnicode=true&characterEncoding=utf-8&useSSL=false
     username: root
     password: root
