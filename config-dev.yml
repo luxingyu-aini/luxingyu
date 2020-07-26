@@ -1,5 +1,5 @@
 config:
- info: nishiwangbadan121111212
+ info: nishiwangbadan12111121212121212wanggs
 spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
